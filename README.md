@@ -1,5 +1,7 @@
 # Sales & Profitability Analysis
 
+<img width="1325" height="765" alt="Dashboard_Screen" src="https://github.com/user-attachments/assets/b6cf4f9b-f9f8-4a9f-9350-bd1d2cc537cb" />
+
 ## Panoramica Progetto
 
 Analisi delle vendite e della profittabilità per un retailer americano su 9.994 transazioni nel periodo 2014-2017. L'obiettivo è capire dove l'azienda sta perdendo soldi nonostante le vendite appaiano buone, e fornire indicazioni concrete per migliorare i margini.
