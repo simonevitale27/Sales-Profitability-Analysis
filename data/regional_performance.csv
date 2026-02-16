@@ -1,0 +1,50 @@
+Region,State,total_sales,total_profit,profit_margin_pct,avg_discount_pct,unique_customers
+Central,Texas,170188.05,-25729.36,-15.12,37.02,370
+Central,Illinois,80166.1,-12607.89,-15.73,39,237
+Central,Michigan,76269.61,24463.19,32.07,0.71,106
+Central,Indiana,53555.36,18382.94,34.33,0,70
+Central,Wisconsin,32114.61,8401.8,26.16,0,52
+Central,Minnesota,29863.15,10823.19,36.24,0,42
+Central,Missouri,22205.15,6436.21,28.99,0,28
+Central,Oklahoma,19683.39,4853.96,24.66,0,34
+Central,Nebraska,7464.93,2037.09,27.29,0,23
+Central,Iowa,4579.76,1183.81,25.85,0,17
+Central,Kansas,2914.31,836.44,28.7,0,14
+Central,"South Dakota",1315.56,394.83,30.01,0,5
+Central,"North Dakota",919.91,230.15,25.02,0,2
+East,"New York",310876.27,74038.55,23.82,5.53,415
+East,Pennsylvania,116511.91,-15559.96,-13.35,32.86,257
+East,Ohio,78258.14,-16971.38,-21.69,32.49,202
+East,"New Jersey",35764.31,9772.91,27.33,0.46,61
+East,Massachusetts,28634.43,6785.5,23.7,1.56,62
+East,Delaware,27451.07,9977.37,36.35,0.62,43
+East,Maryland,23705.52,7031.18,29.66,0.57,45
+East,"Rhode Island",22627.96,7285.63,32.2,2.14,25
+East,Connecticut,13384.36,3511.49,26.24,0.73,43
+East,Vermont,8929.37,2244.98,25.14,0,5
+East,"New Hampshire",7292.52,1706.5,23.4,1.11,17
+East,"District of Columbia",2865.02,1059.59,36.98,0,4
+East,Maine,1270.53,454.49,35.77,0,3
+East,"West Virginia",1209.82,185.92,15.37,7.5,2
+South,Florida,89473.71,-3399.3,-3.8,29.93,181
+South,Virginia,70636.72,18597.95,26.33,0,107
+South,"North Carolina",55603.16,-7490.91,-13.47,28.35,122
+South,Georgia,49095.84,16250.04,33.1,0,83
+South,Kentucky,36591.75,11199.7,30.61,0,58
+South,Tennessee,30661.87,-5341.69,-17.42,29.13,84
+South,Alabama,19510.64,5786.83,29.66,0,34
+South,Arkansas,11678.13,4008.69,34.33,0,27
+South,Mississippi,10771.34,3172.98,29.46,0,25
+South,Louisiana,9217.03,2196.1,23.83,0,21
+South,"South Carolina",8481.71,1769.06,20.86,0,19
+West,California,457687.63,76381.39,16.69,7.28,577
+West,Washington,138641.27,33402.65,24.09,6.4,224
+West,Arizona,35282,-3427.92,-9.72,30.36,100
+West,Colorado,32108.12,-6527.86,-20.33,31.65,75
+West,Oregon,17431.15,-1190.47,-6.83,28.87,51
+West,Nevada,16729.1,3316.77,19.83,6.15,23
+West,Utah,11220.06,2546.53,22.7,6.04,26
+West,Montana,5589.35,1833.33,32.8,6.67,8
+West,"New Mexico",4783.52,1157.12,24.19,5.95,22
+West,Idaho,4382.49,826.72,18.86,8.57,11
+West,Wyoming,1603.14,100.2,6.25,20,1
