@@ -1,6 +1,7 @@
 # Sales & Profitability Analysis
 
-<img width="1325" height="765" alt="Dashboard_Screen" src="https://github.com/user-attachments/assets/b6cf4f9b-f9f8-4a9f-9350-bd1d2cc537cb" />
+<img width="1321" height="762" alt="Screenshot 2026-02-16 alle 09 17 06 (2)" src="https://github.com/user-attachments/assets/2e902a0a-8972-40f2-91be-11523ff5dac9" />
+
 
 ## Panoramica Progetto
 
